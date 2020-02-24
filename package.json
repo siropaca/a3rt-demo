@@ -1,5 +1,5 @@
 {
-  "name": "talk-api-demo",
+  "name": "a3rt-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siropaca/talk-api-demo.git"
+    "url": "git+https://github.com/siropaca/a3rt-demo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/siropaca/talk-api-demo/issues"
+    "url": "https://github.com/siropaca/a3rt-demo/issues"
   },
-  "homepage": "https://github.com/siropaca/talk-api-demo#readme",
+  "homepage": "https://github.com/siropaca/a3rt-demo#readme",
   "dependencies": {
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
