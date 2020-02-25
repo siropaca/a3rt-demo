@@ -1,7 +1,7 @@
-const config = require('./.config.json')
 const request = require('request-promise')
+const config = require('./config')
 
-let options = {
+const options = {
     method: 'POST',
     uri: 'https://api.a3rt.recruit-tech.co.jp/talk/v1/smalltalk',
     timeout: 3000,
