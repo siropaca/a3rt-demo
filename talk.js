@@ -8,7 +8,7 @@ const options = {
     json: true,
     form: {
         apikey: config.TALK_API_KEY,
-        query: 'おはよう',
+        query: 'おはよう'
     }
 }
 
